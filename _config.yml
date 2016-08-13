@@ -1,6 +1,6 @@
 name: Emre Olur
 description: Sosyal Medya Uzmanı, Emre Olur
-url: http://emreolur.org
+url: http://emreolurr.github.io
 permalink: :categories/:title
 exclude: [deprecated, vendor, Gemfile, Procfile]
 safe: true
