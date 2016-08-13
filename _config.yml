@@ -1,0 +1,11 @@
+name: Emre Olur
+description: Sosyal Medya Uzmanı, Emre Olur
+url: http://emreolur.org
+permalink: :categories/:title
+exclude: [deprecated, vendor, Gemfile, Procfile]
+safe: true
+highlighter: rouge
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
+
